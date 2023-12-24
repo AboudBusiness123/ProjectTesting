@@ -1,0 +1,2 @@
+# Restaurant-s-Menu
+A Restaurants's menu that previews items available to order with their current prices, and sorted by their categories. The prices and description of each product can be changed in the database.
